@@ -19,7 +19,7 @@ I'm a passionate **C++** and **Java** developer who enjoys tackling complex prob
 ![evilsin666's GitHub stats](https://github-readme-stats.vercel.app/api?username=evilsin666&show_icons=true&theme=tokyonight)
 
 ## 📫 How to reach me
-Feel free to connect or check out my repositories here on GitHub!
+Feel free to connect me at ranjithsnair1999@gmail.com or check out my repositories here on GitHub!
 
 <!---
 evilsin666/evilsin666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
